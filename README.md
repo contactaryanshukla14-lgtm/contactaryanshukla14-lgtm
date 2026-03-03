@@ -200,8 +200,7 @@ print("Ask me about: Agentic AI • Building MVPs • Data Science")
 -->
 
 ![Snake animation](https://raw.githubusercontent.com/contactaryanshukla14-lgtm/contactaryanshukla14-lgtm/output/github-contribution-grid-snake-dark.svg)
-> 🔧 **Setup the snake:** Follow [this guide](https://github.com/Platane/snk) to enable the animated snake eating your contributions. Takes 2 minutes to set up and looks incredible.
-
+> 
 ---
 
 ## 🎓 Community & Learning
